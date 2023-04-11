@@ -1,0 +1,155 @@
+,Name,URL,Categories,Tags,Modality,Status,Description,likes
+0,CapDec Image Captioning,https://huggingface.co/spaces/johko/capdec-image-captioning,Socially Conscious,"Accessibility, Image Captioning","Image, Language",,,31.0
+1,Interactive demo: comparing image captioning models,https://huggingface.co/spaces/nielsr/comparing-captioning-models,Socially Conscious,"Accessibility, Image Captioning","Image, Language",,,128.0
+2,TorToiSe,https://huggingface.co/spaces/mdnestor/tortoise,Socially Conscious,"Accessibility, Text-to-Speech","Audio, Language",,,110.0
+3,Umamusume voice synthesizer,https://huggingface.co/spaces/Plachta/VITS-Umamusume-voice-synthesizer,Socially Conscious,"Accessibility, Text-to-Speech","Audio, Language",,,58.0
+4,Whisper speaker diarization,https://huggingface.co/spaces/vumichien/whisper-speaker-diarization,Socially Conscious,"Accessibility, Speech-to-Text","Audio, Language",,,182.0
+5,coqui-ai-TTS,https://huggingface.co/spaces/akhaliq/coqui-ai-tts,Socially Conscious,"Accessibility, Text-to-Speech","Audio, Language",,,8.0
+6,,https://huggingface.co/spaces/team-writing-assistant/grammar-correction,Socially Conscious,,,Broken / Not Worth,,
+7,Legal Contract Review Demo,https://huggingface.co/spaces/marshmellow77/contract-review,Socially Conscious,"Accessibility, Contract Understanding, Legal",Language,,,10.0
+8,Automatic Readability Assessment of Texts in Spanish,https://huggingface.co/spaces/hackathon-pln-es/readability-assessment-spanish,Socially Conscious,"Accessibility, Readability",Language,,,13.0
+9,Contract Understanding Atticus Dataset (CUAD) Demo,https://huggingface.co/spaces/akdeniz27/contract-understanding-atticus-dataset-demo,Socially Conscious,"Accessibility, Contract Understanding, Legal",Language,,,5.0
+10,MediaPipe's Hand & Finger Tracking,https://huggingface.co/spaces/EuroPython2022/mediapipe-hands,Socially Conscious,"Accessibility, Hand Tracking, Sign Language",Video,,,2.0
+11,AmericanSignLanguage Detection,https://huggingface.co/spaces/datasciencedojo/AmericanSignLanguage-Detection,Socially Conscious,"Accessibility, Sign Language",Video,,,0.0
+12,,https://huggingface.co/spaces/Jayeshbhaal/news_filter_for_social_wellbeing,,,,Broken / Not Worth,,
+13,Speech Recognition from Visual Lip Movement by Audio-Visual Hidden Unit BERT Model (AV-HuBERT),https://huggingface.co/spaces/vumichien/lip_movement_reading,Socially Conscious,"Accessibility, Lip Movement",Video,,,60.0
+14,Mongolian GPT2,https://huggingface.co/spaces/flax-community/Mongolian-GPT2,Inclusive,Languages,Language,,,2.0
+15,Tamil Language Demos,https://huggingface.co/spaces/flax-community/TamilLanguageDemos,Inclusive,Languages,Language,,,2.0
+16,Translate Between 100 languages,https://huggingface.co/spaces/jason9693/m2m-100,Inclusive,Languages,Language,,,3.0
+17,British Library 19th Century Books Genre Classifier,https://huggingface.co/spaces/BritishLibraryLabs/British-Library-books-genre-classifier,Socially Conscious,Digital Humanities,Language,,,6.0
+18,doc-ufcn Page Detection Demo,https://huggingface.co/spaces/davanstrien/Doc-UFCN,Socially Conscious,Digital Humanities,"Image, Language",,,4.0
+19,Modern Chinese To Ancient Translate Wenyanwen,https://huggingface.co/spaces/raynardj/modern-chinese-to-ancient-translate-wenyanwen,Socially Conscious,"Digital Humanities, Languages",Language,,,4.0
+20,Duguwen Classical Chinese To Morden Translate,https://huggingface.co/spaces/raynardj/duguwen-classical-chinese-to-morden-translate,Socially Conscious,"Digital Humanities, Languages",Language,,,2.0
+21,,https://huggingface.co/spaces/HalflingWizard/Shereno-Word-Cloud,,,,Broken / Not Worth,,
+22,Spanish to Quechua translation,https://huggingface.co/spaces/hackathon-pln-es/spanish-to-quechua-translation,"Inclusive, Socially Conscious","Digital Humanities, Language Revitalization, Languages",Language,,,5.0
+23,,https://huggingface.co/spaces/flax-community/multilingual-image-captioning,,,,Broken / Not Worth,,
+24,MMTAfrica: Multilingual Machine Translation,https://huggingface.co/spaces/edaiofficial/mmtafrica,"Inclusive, Socially Conscious",Languages,Language,,,7.0
+25,Modern English to Middle English Translator,https://huggingface.co/spaces/Qilex/EnglishToMiddleEnglish,Socially Conscious,"Digital Humanities, Languages",Language,,,3.0
+26,Gender Neutral Converter,https://huggingface.co/spaces/vilimus/Gender-Neutral-Converter,"Inquisitive, Socially Conscious","LGBTQIA2S+, Languages",Language,,,0.0
+27,Cite Diversely,https://huggingface.co/spaces/cmudrc/cite-diversely,"Inclusive, Inquisitive, Socially Conscious",Research Methods,Other,,,1.0
+28,Spanish Text Neutralization app,https://huggingface.co/spaces/hackathon-pln-es/es_nlp_gender_neutralizer,"Inquisitive, Socially Conscious","LGBTQIA2S+, Languages",Language,,,14.0
+29,GayFriendlyTownFinder,https://huggingface.co/spaces/GlassWalker/GayFriendlyTownFinder,Socially Conscious,LGBTQIA2S+,Other,,,0.0
+30,,https://huggingface.co/spaces/abidlabs/Gradio-Demo-of-BLM-Photo-Anonymizer,,,,Broken / Not Worth,,
+31,Deepfake Detection,https://huggingface.co/spaces/aaronespasa/deepfake-detection,Socially Conscious,Deepfake Detection,Image,,,2.0
+32,EfficientNetV2 Deepfakes Video Detector,https://huggingface.co/spaces/Ron0420/EfficientNetV2_Deepfakes_Video_Detector,"Socially Conscious, Sustainable","Deepfake Detection, Efficient",Video,,,9.0
+33,PP4AV: Deep Learning model for Data Anonymization in Autonomous Driving,https://huggingface.co/spaces/khaclinh/self-driving-anonymization,Consentful,"Anonymization, Privacy",Image,,,1.0
+34,IMS Speaker Anonymization,https://huggingface.co/spaces/sarinam/speaker-anonymization,Consentful,"Anonymization, Privacy, Voice",Audio,,,1.0
+35,"ZAMA: Machine Learning, Natural Language Processing and Fully Homomorphic Encryption to do Sentiment Analysis on Encrypted data.",https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis,Consentful,"Homomorphic Encryption, Privacy",Language,,,49.0
+36,Fake News Detector (Spanish),https://huggingface.co/spaces/Narrativa/fake-news-detection-spanish,Socially Conscious,Fake News Detection,Language,,,3.0
+37,,https://huggingface.co/spaces/adrianmoses/hate-speech-detection,,,,Broken / Not Worth,,
+38,,https://huggingface.co/spaces/khalidsaifullaah/Threat-Detection-From-Bengali-Voice-Calls,,,,Broken / Not Worth,,
+39,,https://huggingface.co/spaces/justinqbui/Covid-Tweet-True-False-Classification,,,,Broken / Not Worth,,
+40,,https://huggingface.co/spaces/Amrrs/dbias-recognizer,,,,Broken / Not Worth,,
+41,,https://huggingface.co/spaces/sagittariusA/media_bias_detection_CS,,,,Broken / Not Worth,,
+42,Fake_tweet_detector,https://huggingface.co/spaces/chinhon/fake_tweet_detector,Socially Conscious,Fake News Detection,Language,,,8.0
+43,,https://huggingface.co/spaces/akykeung/News-Article-Bias-Recognizer,,,,Broken / Not Worth,,
+44,,https://huggingface.co/spaces/aymm/Task-Exploration-Hate-Speech,,,,Broken / Not Worth,,
+45,Análisis de comentarios sexistas en Twitter,https://huggingface.co/spaces/hackathon-pln-es/Sexismdetection,Socially Conscious,"Hate Detection, Sexism",Language,,,6.0
+46,,https://huggingface.co/spaces/EdBianchi/Social_Toximeter,,,,Broken / Not Worth,,
+47,Spanish Audio Transcription Based Harassment Detection,https://huggingface.co/spaces/CVMX-jaca-tonos/Spanish-Audio-Transcription-based-Harassment-Detection,Socially Conscious,Hate Detection,"Audio, Language",,,0.0
+48,LOREN,https://huggingface.co/spaces/Jiangjie/loren-fact-checking,Socially Conscious,Fact Checking,Language,,,9.0
+49,,https://huggingface.co/spaces/Joshua1808/Sexism,,,,Broken / Not Worth,,
+50,Fact Checking 🎸 Rocks!,https://huggingface.co/spaces/anakin87/fact-checking-rocks,Socially Conscious,Fact Checking,Language,,,21.0
+51,DataMeasurementsTool,https://huggingface.co/spaces/huggingface/data-measurements-tool,Rigorous,Data Exploration,,,,0.0
+52,Chat Noir,https://huggingface.co/spaces/webis/chat-noir,Rigorous,Data Exploration,Language,,,3.0
+53,Predicting masked words in legal text,https://huggingface.co/spaces/muhtasham/legalBERT,Socially Conscious,Legal,Language,,,4.0
+54,PAIR: Measuring Fairness,https://huggingface.co/spaces/merve/measuring-fairness,"Inclusive, Rigorous","Educational, Fairness & Bias",,,,1.0
+55,PAIR: Are Model Predictions Probabilities?,https://huggingface.co/spaces/merve/uncertainty-calibration,Rigorous,Educational,,,,3.0
+56,PAIR: Can a Model Be Differentially Private and Fair?,https://huggingface.co/spaces/merve/private-and-fair,"Consentful, Rigorous","Educational, Fairness & Bias, Privacy",,,,0.0
+57,PAIR: Measuring Diversity,https://huggingface.co/spaces/merve/measuring-diversity,"Inclusive, Rigorous","Data Exploration, Diversity, Educational",,,,0.0
+58,PAIR: What Have Language Models Learned?,https://huggingface.co/spaces/merve/fill-in-the-blank,Rigorous,"Educational, Explainability",Language,,,3.0
+59,PAIR: How randomized response can help collect sensitive information responsibly,https://huggingface.co/spaces/merve/anonymization,Consentful,"Data Exploration, Educational, Privacy",,,,1.0
+60,PAIR: Hidden Bias,https://huggingface.co/spaces/merve/hidden-bias,"Inclusive, Rigorous","Data Exploration, Educational, Fairness & Bias",,,,1.0
+61,PAIR: Why Some Models Leak Data,https://huggingface.co/spaces/merve/data-leak,"Consentful, Rigorous","Educational, Privacy, Security",,,,1.0
+62,PAIR: Datasets Have Worldviews,https://huggingface.co/spaces/merve/dataset-worldviews,"Inquisitive, Rigorous","Data Exploration, Educational, Fairness & Bias",,,,1.0
+63,Causing Gender Pronouns,https://huggingface.co/spaces/emilylearning/causing_gender_pronouns,Rigorous,"Correlations, Data Exploration",Language,,,9.0
+64,Causing Gender Pronouns 2,https://huggingface.co/spaces/emilylearning/causing_gender_pronouns_two,Rigorous,"Correlations, Data Exploration",Language,,,3.0
+65,Generate Class Saliency Plots,https://huggingface.co/spaces/probing-vits/class-saliency,Rigorous,"Explainability, Saliency",Image,,,1.0
+66,Image foreground masking or background removal,https://huggingface.co/spaces/taskswithcode/salient-object-detection,Rigorous,"Explainability, Saliency",Image,,,4.0
+67,Bigscience Corpus,https://huggingface.co/spaces/bigscience-data/bigscience-corpus,Rigorous,"Data Exploration, Transparency",Language,,,0.0
+68,Interactive Error Analysis,https://huggingface.co/spaces/autoevaluate/error-analysis,Rigorous,Error Analysis,Language,Broken / Not Worth,,
+69,Interactive Datasets Explorer,https://huggingface.co/spaces/nazneen/datasets-explorer,Rigorous,Data Exploration,"Image, Language",,,14.0
+70,Modeling Uncertainty in Explainability,https://huggingface.co/spaces/ucinlp/Modeling-Uncertainty-in-Explainability,Rigorous,Explainability,,Broken / Not Worth,,
+71,Visualization of the distributions of the filter values for the BigScience Corpus,https://huggingface.co/spaces/bigscience-data/filter_values_distributions,Rigorous,"Data Exploration, Transparency",Language,,,1.0
+72,Visualizing What Convnets Learn,https://huggingface.co/spaces/keras-io/what-convnets-learn,Rigorous,Explainability,Image,,,2.0
+73,Timeseries Anomaly Detection Using an Autoencoder,https://huggingface.co/spaces/keras-io/timeseries-anomaly-detection-autoencoders,Rigorous,Anomaly Detection,,,,2.0
+74,Can you tell if a Neural Net contains a Backdoor Attack?,https://huggingface.co/spaces/CVPR/Dual-Key_Backdoor_Attacks,Rigorous,Security,"Image, Language",,,3.0
+75,Language Model Gender Bias Scorecard,https://huggingface.co/spaces/sasha/WinoBiasCheck,Rigorous,"Data Exploration, Fairness & Bias, Gender",Language,,,8.0
+76,Tips Gender,https://huggingface.co/spaces/merve/tips_gender,Rigorous,"Data Exploration, Fairness & Bias",Language,,,0.0
+77,Bias & Fairness in AI,https://huggingface.co/spaces/d4data/Bias-Fairness-in-AI,Rigorous,"Explainability, Fairness & Bias",Language,,,2.0
+78,Error Analysis,https://huggingface.co/spaces/nazneen/error-analysis,Rigorous,Error Analysis,,Broken / Not Worth,,
+79,Spurious Correlation Evaluation for Pre-trained LLMs,https://huggingface.co/spaces/ICML2022/selection_bias_induced_spurious_correlations,Rigorous,Correlations,Language,,,3.0
+80,Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP,https://huggingface.co/spaces/kunwarsaaim/Self-Debiasing,Rigorous,"Debiasing, Fairness & Bias",Language,,,3.0
+81,Language Model Bias Scorecard,https://huggingface.co/spaces/sasha/BiasDetection,Rigorous,"Data Exploration, Fairness & Bias",Language,,,6.0
+82,,https://huggingface.co/spaces/argilla/live-demo,,,,Broken / Not Worth,,
+83,,https://huggingface.co/spaces/dvilasuero/argilla,,,,Broken / Not Worth,,
+84,Unsupervised Salient Object Detection with Spectral Cluster Voting,https://huggingface.co/spaces/noelshin/selfmask,Rigorous,"Object Detection, Saliency",Image,,,4.0
+85,Scientific Question Answering with Citations,https://huggingface.co/spaces/domenicrosati/scite-qa-demo,"Rigorous, Socially Conscious","Citations, Explainability",Language,,,1.0
+86,Systematic Error Analysis and Labeling,https://huggingface.co/spaces/nazneen/seal,Rigorous,"Data Exploration, Error Analysis",Language,,,5.0
+87,Clustering with Scikit-learn,https://huggingface.co/spaces/EuroSciPy2022/clustering,Rigorous,"Data Exploration, Educational",,,,1.0
+88,Stable Diffusion v1.5 Bias Explorer,https://huggingface.co/spaces/sasha/StableBias1.5,"Inclusive, Inquisitive, Rigorous","Fairness & Bias, Gender, Generative","Image, Language",,,0.0
+89,Visual Dataset Explorer,https://huggingface.co/spaces/myscale/visual-dataset-explorer,Rigorous,Data Exploration,"Image, Language",,,37.0
+90,Promptsource,https://huggingface.co/spaces/bigscience/promptsource,Inclusive,Prompting,Language,,,20.0
+91,Hallucination detection,https://huggingface.co/spaces/ml6team/post-processing-summarization,Rigorous,"Error Analysis, Hallucination",Language,,,10.0
+92,Dutch Toxic Comment Detection,https://huggingface.co/spaces/ml6team/toxic-comment-detection-dutch,Socially Conscious,Hate Detection,Language,,,5.0
+93,German Toxic Comment Detection,https://huggingface.co/spaces/ml6team/toxic-comment-detection-german,Socially Conscious,Hate Detection,Language,,,3.0
+94,Terms & Conditions Summarizer,https://huggingface.co/spaces/ml6team/distilbart-tos-summarizer-tosdr,Socially Conscious,"Accessibility, Contract Understanding",Language,,,31.0
+95,RE:Belle,https://huggingface.co/spaces/ml6team/Knowledge-graphs,Rigorous,Knowledge Graphs,Language,,,30.0
+96,Am I in The Stack?,https://huggingface.co/spaces/lvwerra/in-the-stack-gr,Consentful,"Data Governance, Dataset Opt-Out",Language,,,2.0
+97,Gaia Search,https://huggingface.co/spaces/ola13/gaia,Rigorous,Data Exploration,"Image, Language",,,1.0
+98,compare anomaly detection algorithms,https://huggingface.co/spaces/scikit-learn/anomaly-detection,Rigorous,"Anomaly Detection, Educational",,,,13.0
+99,ROOTS search tool,https://huggingface.co/spaces/bigscience-data/scisearch,Rigorous,Data Exploration,Language,,,2.0
+100,ROOTS search tool,https://huggingface.co/spaces/bigscience-data/roots-search,Rigorous,Data Exploration,Language,,,26.0
+101,Convert any model to Safetensors and open a PR,https://huggingface.co/spaces/safetensors/convert,Rigorous,Security,,,,28.0
+102,Spurious Correlation Evaluation for Pre-trained LLMs,https://huggingface.co/spaces/emilylearning/spurious_correlation_evaluation,Rigorous,Correlations,Language,,,6.0
+103,Are you certain?,https://huggingface.co/spaces/emilylearning/llm_uncertainty,Rigorous,"Gender, Uncertainty",Language,,,6.0
+104,SantaCoder: Dataset Search,https://huggingface.co/spaces/bigcode/santacoder-search,"Consentful, Rigorous","Code Generation, License Compliance",Language,,,11.0
+105,Santa Model Generator,https://huggingface.co/spaces/bigcode/santacoder-endpoint,Consentful,Code Generation,Language,,,2.0
+106,"SantaCoder:
+ Code Generation",https://huggingface.co/spaces/bigcode/santacoder-demo,Consentful,Code Generation,Language,,,124.0
+107,PII Anonymization,https://huggingface.co/spaces/bigcode/pii-public-demo,"Consentful, Rigorous","Anonymization, Code Generation, Privacy, Security",Language,,,3.0
+108,XLabel: eXplainable Labeling Assistant,https://huggingface.co/spaces/Donlapark/XLabel,Rigorous,"Data Labeling, Explainability",Language,,,0.0
+109,Prompt specifier recognizer by https://www.selas.ai/,https://huggingface.co/spaces/teo-sanchez/prompt_specifier_recognizer,Rigorous,"Explainability, Prompting",Language,,,4.0
+110,In The Stack,https://huggingface.co/spaces/lvwerra/in-the-stack,"Consentful, Rigorous","Data Governance, Dataset Opt-Out, Transparency",Language,,,1.0
+111,SantaCoder 🎅 bash/shell 🐚 Completion,https://huggingface.co/spaces/mrm8488/santacoder-bash-completion,Consentful,"Code Generation, Downstream Artifact",Language,,,5.0
+112,Santa Explains Code,https://huggingface.co/spaces/bigcode/santa-explains-code,Consentful,"Code Generation, Downstream Artifact",Language,,,4.0
+113,Utilizing BioBERT for PICO Evidence Summarization,https://huggingface.co/spaces/owaiskha9654/PICO-Evidence-Based-Classification-Inference,Socially Conscious,Health,Language,,,1.0
+114,Pile V2 EDA,https://huggingface.co/spaces/CarperAI/pile-v2-eda,Rigorous,Data Exploration,Language,,,2.0
+115,Disaggregators,https://huggingface.co/spaces/society-ethics/disaggregators,"Inquisitive, Rigorous","Data Labeling, Disaggregation, Fairness & Bias",Language,,,21.0
+116,NER for Drug Names and Adverse Effects,https://huggingface.co/spaces/jsylee/adverse-drug-reactions-ner,Socially Conscious,Health,Language,,,8.0
+117,YOLOv5 - Plastic in river detection,https://huggingface.co/spaces/Kili/plastic_in_river,Socially Conscious,Climate,Image,,,6.0
+118,Predicting masked words in legal text,https://huggingface.co/spaces/muhtasham/legalBERT,Socially Conscious,Legal,Language,,,4.0
+119,Echocardiogram Segmentation,https://huggingface.co/spaces/abidlabs/Echocardiogram-Segmentation,Socially Conscious,Health,Image,,,7.0
+120,DeepPrivacy: A Generative Adversarial Network for Face Anonymization,https://huggingface.co/spaces/haakohu/DeepPrivacy,Socially Conscious,"Anonymization, Privacy",Video,,,22.0
+121,ASL Fingerspelling Recognition,https://huggingface.co/spaces/tallwhitestck/asl-fingerspelling-recognition,Socially Conscious,Sign Language,Image,,,1.0
+122,Task Exploration - Automatic Content Moderation,https://huggingface.co/spaces/hf-task-exploration/ExploreACMnaacl,,,,Broken / Not Worth,,
+123,Socratic models for image captioning with BLOOM,https://huggingface.co/spaces/Geonmo/socratic-models-image-captioning-with-BLOOM,Socially Conscious,Image Captioning,Image,,,20.0
+124,IntrotoAI Climate Change Project,https://huggingface.co/spaces/aiEDUcurriculum/introtoAI-climate-change-project,Socially Conscious,"Climate, Educational",Language,,,1.0
+125,Ask2Democracy - Generador de historias basado en los testimonios del conflicto Colombiano,https://huggingface.co/spaces/jorge-henao/historias-conflicto-col,Socially Conscious,Political,Language,,,1.0
+126,Endangered Fish Classification,https://huggingface.co/spaces/Cawinchan/Endangered-Fish-Classification,Socially Conscious,"Climate, Nature",Image,,,0.0
+127,ETHIO HYDRO & CLIMATE HUB,https://huggingface.co/spaces/poooja2012/ethio_hydro,Socially Conscious,"Climate, Data Exploration",Tabular,,,1.0
+128,Cycling rates in London,https://huggingface.co/spaces/liloho/london-cycling-rates,Socially Conscious,Data Exploration,Tabular,,,0.0
+129,ClimateGAN: Visualize Climate Change,https://huggingface.co/spaces/NimaBoscarino/climategan,Socially Conscious,"Climate, Generative",Image,,,16.0
+130,ClimateGAN: Visualize Climate Change,https://huggingface.co/spaces/vict0rsch/climateGAN,Socially Conscious,"Climate, Generative",Image,,,7.0
+131,Out-of-context misinformation detection,https://huggingface.co/spaces/machinewise-io/OOC-misinformation-detection,Socially Conscious,Misinformation,"Image, Language",,,1.0
+132,AI for sustainable agriculture and food systems:Use of Satellite Imagery,https://huggingface.co/spaces/Omdena-Milan/milan-chapter-agrifoods,Socially Conscious,"Agriculture, Climate",Image,,,1.0
+133,Policy Test,https://huggingface.co/spaces/peter2000/policy_test,Socially Conscious,Legal,Language,,,0.0
+134,Find my Butterfly 🦋,https://huggingface.co/spaces/SDbiaseval/find-my-butterfly,Socially Conscious,"Fun, Nature",Image,,,2.0
+135,Which Sea Slug Am I ? 🐌,https://huggingface.co/spaces/sasha/find-my-sea-slug,Socially Conscious,"Fun, Nature",Image,,,1.0
+136,Image Classification with EfficientFormer-L1,https://huggingface.co/spaces/adirik/efficientformer,Sustainable,Efficient,Image,,,2.0
+137,Polymer Blocks,https://huggingface.co/spaces/GT4SD/polymer_blocks,"Rigorous, Socially Conscious","Model Card, Molecule Generation",Other,,,1.0
+138,GeoDiff,https://huggingface.co/spaces/GT4SD/geodiff,"Rigorous, Socially Conscious","Model Card, Molecule Generation",Other,,,0.0
+139,DivEMT Explorer,https://huggingface.co/spaces/GroNLP/divemt_explorer,"Rigorous, Socially Conscious","Data Exploration, Transparency",Language,,,1.0
+140,,https://huggingface.co/spaces/lora-library/Low-rank-Adaptation,,,,Broken / Not Worth,,
+141,Write Stories Using Bloom,https://huggingface.co/spaces/EuroPython2022/Write-Stories-Using-Bloom,Socially Conscious,"Fun, Generative, Text Generation",Language,,,20.0
+142,DALL·E mini by craiyon.com,https://huggingface.co/spaces/dalle-mini/dalle-mini,Rigorous,"Generative, Model Card","Image, Language",,,4766.0
+143,Modelcard Creator,https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool,Rigorous,"Educational, Model Card",,,,17.0
+144,Promptist Demo,https://huggingface.co/spaces/microsoft/Promptist,Inclusive,"Accessibility, Prompting, Tool",Language,,,96.0
+145,Lexica Art - A Search Engine for Generative Art Prompts and Works,https://huggingface.co/spaces/Xhaheen/Lexica_prompt_search,Inclusive,"Accessibility, Generative, Prompting","Image, Language",,,6.0
+146,Imaginary Network Expanded Dataset,https://huggingface.co/spaces/Sygil/INE-dataset-explorer,"Consentful, Rigorous",Data Exploration,"Image, Language",,,1.0
+147,Dataset Explore,https://huggingface.co/spaces/bigbio/dataset-explore,Rigorous,"Data Exploration, Transparency",Language,,,1.0
+148,Karlo - unCLIP model by KakaoBrain,https://huggingface.co/spaces/kakaobrain/karlo,Socially Conscious,RAIL License,"Image, Language",,,325.0
+149,Non-Suspicious image decoder,https://huggingface.co/spaces/mithril-security/NonSuspiciousImageDecoder,"Consentful, Rigorous","Security, Steganography",Image,,,0.0
+150,the AI art generator sources of inspiration,https://huggingface.co/spaces/MLearningAI/AIart_sources_of_inspiration,"Rigorous, Socially Conscious",Artist Acknowledgement,Image,,,2.0
+151,Wikipedia Assistant,https://huggingface.co/spaces/deepset/wikipedia-assistant,Socially Conscious,"Fact Checking, Knowledge Retrieval, Tool",Language,,,260.0
+152,BioGPT-Large Demo,https://huggingface.co/spaces/katielink/biogpt-large-demo,Socially Conscious,"Generative, Health, Text Generation",Language,,,28.0
